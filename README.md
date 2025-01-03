@@ -1,1 +1,1 @@
-It is a upgraded game of flappybird.
+It is a upgraded game of flappybird made for me in Python.
